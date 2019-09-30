@@ -1,0 +1,70 @@
+.wrapper{
+	width: 1000px;
+	margin: 0 auto;
+}
+nav{
+	background: black;
+	margin-top: 20px;
+	text-align: center;
+	border-radius: 5px;
+	margin-top: 20px;
+	background: linear-gradient(#cc0044, #ff4d88, #cc0044);
+}
+
+nav ul{
+	list-style: none;
+}
+
+nav ul li{
+	display: inline;
+}
+
+nav ul li a{
+	color: black;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 60px;
+	margin-right: 60px;
+	display: inline-block; 
+}
+
+nav ul li a:hover{
+	background: red;
+}
+
+div.intro { 
+	width:900px;
+	
+ }
+
+div.intro div.introimage {
+	width: 900px;
+	margin-top: 20px;
+}
+div.serv img{
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+	margin-bottom: 10px;
+}
+
+
+
+div.col div.serv h2{
+	margin-top: 60px;
+	float: left;
+	margin-left: 30px;
+}
+
+div.col div.serv p{
+	margin-top: 5px;
+	margin-bottom: 60px;
+	margin-left: 140px;
+	font-family: cursive;
+	font-size: 20px;
+	float: left;
+	
+}	
+
