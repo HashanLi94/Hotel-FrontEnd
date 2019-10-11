@@ -32,7 +32,8 @@ nav ul li a{
 	margin-top: 10px;
 	margin-left: 60px;
 	margin-right: 60px;
-	display: inline-block; 
+	display: inline-block;
+	text-decoration: none; 
 }
 
 nav ul li a:hover{

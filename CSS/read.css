@@ -27,6 +27,7 @@ nav ul li a{
 	margin-left: 60px;
 	margin-right: 60px;
 	display: inline-block; 
+	text-decoration: none;
 }
 
 nav ul li a:hover{
